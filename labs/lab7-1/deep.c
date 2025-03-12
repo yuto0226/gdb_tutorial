@@ -2,7 +2,7 @@
 
 int third_function(int x) {
     int *ptr = NULL;
-    *ptr = x; // Segmentation fault
+    *ptr = x;  // Segmentation fault
     return 0;
 }
 
