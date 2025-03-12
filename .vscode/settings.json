@@ -1,0 +1,13 @@
+{
+  "C_Cpp.clang_format_fallbackStyle": "Chromium",
+  "C_Cpp.clang_format_path": ".clang-format",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "C_Cpp.formatting": "clangFormat",
+  "editor.tabSize": 4,
+  "files.eol": "\n",
+  "files.associations": {
+    "stdio.h": "c"
+  }
+}

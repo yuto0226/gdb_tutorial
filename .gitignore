@@ -1,0 +1,10 @@
+# c files
+*.o
+*.out
+
+# gdb files
+.gdb_history
+peda-session-gcd.txt
+
+# pptx
+~$*

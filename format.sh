@@ -1,0 +1,1 @@
+find . -iname '*.[ch]' | xargs clang-format -i

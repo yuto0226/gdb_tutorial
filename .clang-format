@@ -1,0 +1,11 @@
+﻿BasedOnStyle: Chromium
+Language: Cpp
+MaxEmptyLinesToKeep: 3
+IndentCaseLabels: false
+DerivePointerAlignment: false
+PointerAlignment: Right
+SpaceAfterCStyleCast: true
+TabWidth: 4
+UseTab: Never
+IndentWidth: 4
+AccessModifierOffset: -4
